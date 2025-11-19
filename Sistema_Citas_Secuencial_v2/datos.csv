@@ -1,0 +1,13 @@
+tipo,id,doctorId,nombre,edad,correo,especialidad
+paciente,1,,Juan Perez,30,juan@example.com,
+paciente,2,,Maria Lopez,25,maria.lopez@example.com,
+paciente,3,,Carlos Ramirez,42,carlos.ramirez@example.com,
+paciente,4,,Ana Torres,36,ana.torres@example.com,
+paciente,5,,Luis Fernandez,50,luis.fernandez@example.com,
+paciente,6,,Elena Garcia,29,elena.garcia@example.com,
+
+doctor,,1,Dr. Martin Salinas,,,Cardiología
+doctor,,2,Dr. Sofia Ortega,,,Pediatría
+doctor,,3,Dr. Ricardo Gómez,,,Medicina General
+doctor,,4,Dr. Laura Castillo,,,Dermatología
+doctor,,5,Dr. Javier Cano,,,Neurología
